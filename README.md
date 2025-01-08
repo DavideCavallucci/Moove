@@ -3,9 +3,9 @@
 <h2>Funzionalità 🛠️</h2>
 <p>Il progetto permette di simulare la struttura operativa dell’azienda, come ad esempio:</p>
 <ul>
-    <li>Creare nuovi prodotti e aggiungerli a un processo di produzione.</li>
-    <li>Gestire gli ordini dei clienti e aggiornare lo stato dei prodotti (es. da "disponibile" a "esaurito").</li>
-    <li>Simulare ordini e visualizzare log dettagliati.</li>
+    <li>Creare nuovi mezzi e metterli in circolazione in città a disposizione degli utenti. Possibilità anche di rimuoverli dalla circolazione.</li>
+    <li>Assegnare i mezzi agli utenti e cambiare il loro stato (es. da "disponibile" a "in uso").</li>
+    <li>Trovare mezzi disponibili e aggiungere e rimuovere mezzi per quellà città.</li>
 </ul>
 <h2>Struttura del codice ⚙️</h2>
 <p>La struttura può essere suddivisa in 3 parti principali:</p>
