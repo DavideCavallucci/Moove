@@ -1,6 +1,3 @@
-# Moove
-4° Progetto del Master di Start2Impact.
-
 <h1>Moove</h1>
 <p>Questo progetto mira a sviluppare un sistema in TypeScript che modella la struttura organizzativa di Moove, un servizio innovativo di micromobilità condivisa, focalizzandosi sulle interazioni tra utenti, mezzi di trasporto e le città servite. </p>
 <h2>Funzionalità 🛠️</h2>
